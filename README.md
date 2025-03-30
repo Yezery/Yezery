@@ -6,6 +6,7 @@
 
 - <u>区块链技术应用</u>  &  <u>数字媒体专业</u>   应届生 🌱
 - 喜欢 <u>捣鼓</u> 计算机技术
+- 目前在研究人工智能前沿技术（MCP + Agent + RAG + Chunk）
 
 
 
@@ -59,10 +60,11 @@
 
 AI
 
-<p><img alt="pytorch" src="https://img.shields.io/badge/-Pytorch-FFA500?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="transformers" src="https://img.shields.io/badge/-Transformers-FFA500?style=flat-square&logo=transformers&logoColor=white" />
-  <img alt="opencv" src="https://img.shields.io/badge/-Opencv-AA344D?style=flat-square&logo=opencv&logoColor=white" />
+<p><img alt="mcp" src="https://img.shields.io/badge/-MCP-FFA500?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+  <img alt="langchain" src="https://img.shields.io/badge/-LangChain-FFA500?style=flat-square&logo=langchain&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/-RAG-FFA500?style=flat-square&logo=rag&logoColor=white" />
 </p>
+
 
 跨平台开发
 
