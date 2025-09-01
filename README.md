@@ -4,7 +4,7 @@
 
 ### 关于我
 
-- <u>区块链技术应用</u>  &  <u>数字媒体专业</u>   应届生 🌱
+- <u>区块链技术应用</u>  &  <u>数字媒体专业（代码方向）</u>   应届生 🌱
 - 喜欢 <u>捣鼓</u> 计算机技术
 - 目前在研究人工智能前沿技术（MCP + Multi Agent + Agentic RAG/KAG）
 
@@ -21,14 +21,17 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="solidity" src="https://img.shields.io/badge/-Solidity-3776AB?style=flat-square&logo=solidity&logoColor=white" />
+<img alt="rust" src="https://img.shields.io/badge/-Rust-3776AB?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
 前端开发
 
 <p>
   <img alt="Nuxt3" src="https://img.shields.io/badge/-Nuxt3-6DB33F?style=flat-square&logo=nuxt&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="vue2" src="https://img.shields.io/badge/-Vue2-6DB33F?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="vue3" src="https://img.shields.io/badge/-Vue3-6DB33F?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="ECharts" src="https://img.shields.io/badge/-ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" />
   <img alt="tailwind" src="https://img.shields.io/badge/-Tailwindcss-00BFFF?style=flat-square&logo=Tailwindcss&logoColor=white" />
@@ -42,6 +45,7 @@
 <p>
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-6DB33F?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="gin" src="https://img.shields.io/badge/-GoGin-00BFFF?style=flat-square&logo=gin&logoColor=white" />
+  <img alt="nestJs" src="https://img.shields.io/badge/-NestJs-00BFFF?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="springboot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express-6DB33F?style=flat-square&logo=express&logoColor=white" />
@@ -51,24 +55,41 @@
 <br>
 <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-FF6A00?style=flat-square&logo=elasticsearch&logoColor=white" />
-<img alt="redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" /></p>
+<img alt="redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+<img alt="postgresql" src="https://img.shields.io/badge/-postgresql-1358A9?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 游戏开发
 
-<p><img alt="unity" src="https://img.shields.io/badge/-linux-181717?style=flat-square&logo=unity&logoColor=white" />
+<p><img alt="unity" src="https://img.shields.io/badge/-unity-181717?style=flat-square&logo=unity&logoColor=white" />
   <span></span></p>
 
 AI
 
-<p><img alt="mcp" src="https://img.shields.io/badge/-MCP-FFA500?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-  <img alt="langchain" src="https://img.shields.io/badge/-LangChain-FFA500?style=flat-square&logo=langchain&logoColor=white" />
-  <img alt="RAG" src="https://img.shields.io/badge/-RAG-FFA500?style=flat-square&logo=rag&logoColor=white" />
+<p><img alt="mcp" src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+  <img alt="langGraph" src="https://img.shields.io/badge/-LangChain-FFA500?style=flat-square&logo=langchain&logoColor=white" />
+  <img alt="crewai" src="https://img.shields.io/badge/-Crewai-FF5A50?style=flat-square&logo=crewai&logoColor=white" />
+  <img alt="chromadb" src="https://img.shields.io/badge/-ChromaDB-FFA500?style=flat-square&logo=chromadb&logoColor=white" />
+</p>
+
+区块链
+
+<p>
+  <img alt="fundry" src="https://img.shields.io/badge/-Fundry-00BFFF?style=flat-square&logo=fundry&logoColor=white" />
+  <img alt="hardhat" src="https://img.shields.io/badge/-Hardhat-00BFFF?style=flat-square&logo=hardhat&logoColor=white" />
+  <img alt="solana" src="https://img.shields.io/badge/-Solana-00BFFF?style=flat-square&logo=solana&logoColor=white" />
+  <img alt="ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img alt="antdesign Web3" src="https://img.shields.io/badge/-Antdesign Web3-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
 </p>
 
 
 跨平台开发
 
-<img alt="Pyqt" src="https://img.shields.io/badge/-PyQT-CC6699?style=flat-square&logo=qt&logoColor=white" /> <img alt="Electron" src="https://img.shields.io/badge/-Electron-46a2f1?style=flat-square&logo=Electron&logoColor=white" /><img alt="uniapp" src="https://img.shields.io/badge/-Uniapp-009639?style=flat-square&logo=uniapp&logoColor=white" />
+<p>
+<img alt="Pyqt" src="https://img.shields.io/badge/-PyQT-CC6699?style=flat-square&logo=qt&logoColor=white" />
+<img alt="Electron" src="https://img.shields.io/badge/-Electron-46a2f1?style=flat-square&logo=Electron&logoColor=white" />
+<img alt="uniapp" src="https://img.shields.io/badge/-Uniapp-009639?style=flat-square&logo=uniapp&logoColor=white" />
+</p>
 
 运维
 
@@ -80,4 +101,12 @@ AI
 
 其他
 
-<img alt="github" src="https://img.shields.io/badge/-Windows-1E90FF?style=flat-square&logo=Windows&logoColor=white" /><img alt="github" src="https://img.shields.io/badge/-linux-181717?style=flat-square&logo=linux&logoColor=white" /><img alt="github" src="https://img.shields.io/badge/-MacOS-181717?style=flat-square&logo=apple&logoColor=white" /><img alt="AE" src="https://img.shields.io/badge/-AE-FFA500?style=flat-square&logo=AE&logoColor=white" /><img alt="github" src="https://img.shields.io/badge/-PS-00BFFF?style=flat-square&logo=photoshop&logoColor=white" /><img alt="github" src="https://img.shields.io/badge/-PR-00BFFF?style=flat-square&logo=ps&logoColor=white" /><img alt="blender" src="https://img.shields.io/badge/-Blender-FFA500?style=flat-square&logo=blender&logoColor=white" />
+<p>
+<img alt="github" src="https://img.shields.io/badge/-Windows-1E90FF?style=flat-square&logo=Windows&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/-linux-181717?style=flat-square&logo=linux&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/-MacOS-181717?style=flat-square&logo=apple&logoColor=white" />
+<img alt="AE" src="https://img.shields.io/badge/-AE-FFA500?style=flat-square&logo=AE&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/-PS-00BFFF?style=flat-square&logo=photoshop&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/-PR-00BFFF?style=flat-square&logo=ps&logoColor=white" />
+<img alt="blender" src="https://img.shields.io/badge/-Blender-FFA500?style=flat-square&logo=blender&logoColor=white" />
+</p>
