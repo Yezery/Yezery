@@ -1,15 +1,6 @@
 # Hey , I'm Ziv YE！ <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="48"/>
 
 
-
-### 关于我
-
-- <u>区块链技术应用</u>  &  <u>数字媒体专业（代码方向）</u>   应届生 🌱
-- 喜欢 <u>捣鼓</u> 计算机技术
-- 目前在研究人工智能前沿技术（MCP + Multi Agent + Agentic RAG/KAG）
-
-
-
 ### 捣鼓的玩意 <img src="https://slackmojis.com/emojis/21142-meow_bongotap/download" width="48"/>
 
 编程语言
